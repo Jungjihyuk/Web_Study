@@ -3,7 +3,7 @@
 ## SQLalchemy
 
 > SQLarlchemy는 Python 언어를 위한 ORM이다. 
-SQL문법을 사용하지 않고 Python class로 스키마를 작성하면 Create table을 한것 처럼 DB table을 생성해준다. 
+> SQL문법을 사용하지 않고 Python class로 스키마를 작성하면 Create table을 한것 처럼 DB table을 생성해준다. 
 
 
 ### Type 
@@ -69,12 +69,12 @@ SQL문법을 사용하지 않고 Python class로 스키마를 작성하면 Creat
 ## WTForms
 
 > 클라이언트로부터 입력받을 Form을 제공하는 API. 
-필드의 정의, 유효성 검사, 입력 가져오기, 오류 집계를 포함하는 기능을 제공한다.
+> 필드의 정의, 유효성 검사, 입력 가져오기, 오류 집계를 포함하는 기능을 제공한다.
 
 ### Field
 
 > 일반적으로 데이터베이스 테이블에서 타입을 지정해주는 열을 말한다.
-입력 받는 값의 타입.
+> 입력 받는 값의 타입.
 
 
 ### 기본 필드 
