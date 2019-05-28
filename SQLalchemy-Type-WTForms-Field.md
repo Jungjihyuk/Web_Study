@@ -109,13 +109,13 @@
 
 
 ### 편리한 필드
-HiddenField : 입력 폼이 보이지 않는 필드 
-PasswordField : 비밀번호를 입력할때 값이 보이지 않도록 하는 필드
-TextAreaField : 텍스트를 자유롭고 길게 받을 수 있는 필드
+HiddenField : 입력 폼이 보이지 않는 필드 <br>
+PasswordField : 비밀번호를 입력할때 값이 보이지 않도록 하는 필드 <br>
+TextAreaField : 텍스트를 자유롭고 길게 받을 수 있는 필드 <br>
 
 ### Field Enclosures
-FormField : Form을 받는 필드
-FieldList : 필드의 인스턴스를 list형태로 받는 필드 
+FormField : Form을 받는 필드 <br>
+FieldList : 필드의 인스턴스를 list형태로 받는 필드 <br>
 
 ### 커스텀 필드
 필요시 직접 필드를 수정해서 사용한다 
