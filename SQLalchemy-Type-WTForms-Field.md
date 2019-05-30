@@ -58,10 +58,11 @@
 - Date
 - DateTime
 - TimeStamp
-6. 파일형 
-- BLOB
-- CLOB
-- JSON
+6. 파일형
+- BLOB : 이진 대형 객체 ex) 이미지, 동영상, 음악파일
+- CLOB : 문자 대형 객체 
+- JSON 
+- ※ LOB(Long Object)는 Text, 그래픽, 이미지, 비디오 사운드 등 구조화 되지 않은 대형 데이터를 저장할 때 사용한다 
 7. 리스트형(배열)
 - Array
 
